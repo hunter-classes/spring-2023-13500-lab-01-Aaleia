@@ -1,4 +1,11 @@
-// Lab 1A
+/*
+Author: Aaleia Fernando
+Course: CSCI-135
+Instructor: Mike Zamansky
+Assignment: Lab 1A
+
+Write a program that asks the user to input two integer numbers and prints out the smaller of the two.
+*/
 
 #include <iostream>
 

@@ -1,3 +1,12 @@
+/*
+Author: Aaleia Fernando
+Course: CSCI-135
+Instructor: Mike Zamansky
+Assignment: Lab 1D
+
+Write a program that asks the user to input the year and the month (1-12) and prints the number of days in that month (taking into account leap years).
+*/
+
 #include <iostream>
 
 int main(){
